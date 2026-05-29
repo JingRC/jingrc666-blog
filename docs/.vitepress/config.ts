@@ -8,10 +8,10 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '项目', link: '/projects' },
-      { text: 'GitHub', link: 'https://github.com/ckjbug' },
+      { text: 'GitHub', link: 'https://github.com/JingRC' },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ckjbug' },
+      { icon: 'github', link: 'https://github.com/JingRC' },
     ],
   },
 })

@@ -11,7 +11,7 @@ hero:
       link: /projects
     - theme: alt
       text: GitHub
-      link: https://github.com/ckjbug
+      link: https://github.com/JingRC
 
 features:
   - title: 仿网易云音乐平台
@@ -22,5 +22,5 @@ features:
     link: /projects
   - title: Resume Builder
     details: Vue 3 + Pinia 简历构建器，5套设计预设，支持 PDF/Word 导出。
-    link: https://github.com/ckjbug
+    link: https://github.com/JingRC
 ---

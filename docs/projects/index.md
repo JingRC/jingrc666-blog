@@ -46,4 +46,4 @@
 
 Vue 3 + Pinia 简历构建器，支持 PDF/Word 导出，5套完整设计预设。
 
-**源码：[github.com/ckjbug](https://github.com/ckjbug)**
+**源码：[github.com/JingRC](https://github.com/JingRC)**
